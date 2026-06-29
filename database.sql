@@ -1,3 +1,0 @@
-CREATE DATABASE users;
-USE users;
-CREATE TABLE users1 (id INT PRIMARY KEY AUTO_INCREMENT, username VARCHAR(50), password VARCHAR(50));
